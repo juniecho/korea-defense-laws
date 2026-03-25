@@ -1,149 +1,149 @@
 ﻿{
   "기본법률": [
-    {"name": "헌법", "url": "http://www.law.go.kr/법령/대한민국헌법"},
-    {"name": "행정기본법", "url": "https://www.law.go.kr/법령/행정기본법"},
-    {"name": "행정절차법", "url": "http://www.law.go.kr/법령/행정절차법"},
-    {"name": "행정심판법", "url": "http://www.law.go.kr/법령/행정심판법"},
-    {"name": "행정소송법", "url": "https://www.law.go.kr/법령/행정소송법"},
-    {"name": "민법", "url": "http://www.law.go.kr/법령/민법"},
-    {"name": "상법", "url": "http://www.law.go.kr/법령/상법"},
-    {"name": "민사소송법", "url": "http://www.law.go.kr/법령/민사소송법"},
-    {"name": "비송사건절차법", "url": "https://www.law.go.kr/법령/비송사건절차법"},
-    {"name": "민사집행법", "url": "http://www.law.go.kr/법령/민사집행법"},
-    {"name": "형법", "url": "http://www.law.go.kr/법령/형법"},
-    {"name": "형사소송법", "url": "http://www.law.go.kr/법령/형사소송법"},
-    {"name": "법원조직법", "url": "https://www.law.go.kr/법령/법원조직법"}
+    {"alias": "", "name": "헌법", "url": "http://www.law.go.kr/법령/대한민국헌법"},
+    {"alias": "", "name": "행정기본법", "url": "https://www.law.go.kr/법령/행정기본법"},
+    {"alias": "", "name": "행정절차법", "url": "http://www.law.go.kr/법령/행정절차법"},
+    {"alias": "", "name": "행정심판법", "url": "http://www.law.go.kr/법령/행정심판법"},
+    {"alias": "", "name": "행정소송법", "url": "https://www.law.go.kr/법령/행정소송법"},
+    {"alias": "", "name": "민법", "url": "http://www.law.go.kr/법령/민법"},
+    {"alias": "", "name": "상법", "url": "http://www.law.go.kr/법령/상법"},
+    {"alias": "", "name": "민사소송법", "url": "http://www.law.go.kr/법령/민사소송법"},
+    {"alias": "", "name": "비송사건절차법", "url": "https://www.law.go.kr/법령/비송사건절차법"},
+    {"alias": "", "name": "민사집행법", "url": "http://www.law.go.kr/법령/민사집행법"},
+    {"alias": "", "name": "형법", "url": "http://www.law.go.kr/법령/형법"},
+    {"alias": "", "name": "형사소송법", "url": "http://www.law.go.kr/법령/형사소송법"},
+    {"alias": "", "name": "법원조직법", "url": "https://www.law.go.kr/법령/법원조직법"}
   ],
   "공공계약법령": [
-    {"name": "방위사업법", "url": "https://www.law.go.kr/법령/방위사업법"},
-    {"name": "방위사업법 시행령", "url": "https://www.law.go.kr/법령/방위사업법시행령"},
-    {"name": "방위사업법 시행규칙", "url": "https://www.law.go.kr/법령/방위사업법시행규칙"},
-    {"name": "국가계약법", "url": "https://www.law.go.kr/법령/국가를당사자로하는계약에관한법률"},
-    {"name": "국가계약법 시행령", "url": "https://www.law.go.kr/법령/국가계약법시행령"},
-    {"name": "국가계약법 시행규칙", "url": "https://www.law.go.kr/법령/국가계약법시행규칙"},
-    {"name": "조달사업법", "url": "https://www.law.go.kr/법령/조달사업법"},
-    {"name": "조달사업법 시행령", "url": "https://www.law.go.kr/법령/조달사업법시행령"},
-    {"name": "조달사업법 시행규칙", "url": "https://www.law.go.kr/법령/조달사업법시행규칙"}
+    {"alias": "", "name": "방위사업법", "url": "https://www.law.go.kr/법령/방위사업법"},
+    {"alias": "", "name": "방위사업법 시행령", "url": "https://www.law.go.kr/법령/방위사업법시행령"},
+    {"alias": "", "name": "방위사업법 시행규칙", "url": "https://www.law.go.kr/법령/방위사업법시행규칙"},
+    {"alias": "", "name": "국가계약법", "url": "https://www.law.go.kr/법령/국가를당사자로하는계약에관한법률"},
+    {"alias": "", "name": "국가계약법 시행령", "url": "https://www.law.go.kr/법령/국가계약법시행령"},
+    {"alias": "", "name": "국가계약법 시행규칙", "url": "https://www.law.go.kr/법령/국가계약법시행규칙"},
+    {"alias": "", "name": "조달사업법", "url": "https://www.law.go.kr/법령/조달사업법"},
+    {"alias": "", "name": "조달사업법 시행령", "url": "https://www.law.go.kr/법령/조달사업법시행령"},
+    {"alias": "", "name": "조달사업법 시행규칙", "url": "https://www.law.go.kr/법령/조달사업법시행규칙"}
   ],
   "계약주요규칙": {
     "계약예규": [
-      {"govbody": "기재부", "type": "예규", "name": "물품구매/제조계약일반조건", "url": "https://www.law.go.kr/행정규칙/(계약예규)물품구매(제조)계약일반조건"},
-      {"govbody": "방사청", "type": "예규", "name": "물품 제조/구매계약특수조건 표준(일반 및 방산)", "url": "https://www.law.go.kr/행정규칙/물품제조구매계약특수조건표준(일반및방산)"},
-      {"govbody": "방사청", "type": "예규", "name": "물품 제조/구매 계약특수조건 표준(특정조달)", "url": "https://www.law.go.kr/행정규칙/물품제조구매계약특수조건표준(특정조달)"},
-      {"govbody": "기재부", "type": "예규", "name": "용역계약일반조건", "url": "https://www.law.go.kr/행정규칙/(계약예규)용역계약일반조건"},
-      {"govbody": "방사청", "type": "예규", "name": "용역계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/용역계약특수조건표준"},
-      {"govbody": "방사청", "type": "예규", "name": "외주정비 계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/외주정비계약특수조건표준"},
-      {"govbody": "방사청", "type": "예규", "name": "일반무기체계 연구개발 계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/일반무기체계연구개발계약특수조건표준"},
-      {"govbody": "방사청", "type": "예규", "name": "함정건조 계약특수조건 표준(일반 및 방산)", "url": "https://www.law.go.kr/행정규칙/함정건조계약특수조건표준(일반및방산)"},
-      {"govbody": "방사청", "type": "예규", "name": "우주물체 제작 계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/우주물체제작계약특수조건표준"}
+      {"alias": "", "govbody": "기재부", "type": "예규", "name": "물품구매/제조계약일반조건", "url": "https://www.law.go.kr/행정규칙/(계약예규)물품구매(제조)계약일반조건"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "물품 제조/구매계약특수조건 표준(일반 및 방산)", "url": "https://www.law.go.kr/행정규칙/물품제조구매계약특수조건표준(일반및방산)"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "물품 제조/구매 계약특수조건 표준(특정조달)", "url": "https://www.law.go.kr/행정규칙/물품제조구매계약특수조건표준(특정조달)"},
+      {"alias": "", "govbody": "기재부", "type": "예규", "name": "용역계약일반조건", "url": "https://www.law.go.kr/행정규칙/(계약예규)용역계약일반조건"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "용역계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/용역계약특수조건표준"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "외주정비 계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/외주정비계약특수조건표준"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "일반무기체계 연구개발 계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/일반무기체계연구개발계약특수조건표준"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "함정건조 계약특수조건 표준(일반 및 방산)", "url": "https://www.law.go.kr/행정규칙/함정건조계약특수조건표준(일반및방산)"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "우주물체 제작 계약특수조건 표준", "url": "https://www.law.go.kr/행정규칙/우주물체제작계약특수조건표준"}
     ],
     "방위사업": [
-      {"govbody": "방사청", "type": "훈령", "name": "방위사업관리규정", "url": "https://www.law.go.kr/행정규칙/방위사업관리규정"},
-      {"govbody": "방사청", "type": "훈령", "name": "군수품조달관리규정", "url": "https://www.law.go.kr/행정규칙/군수품조달관리규정"},
-      {"govbody": "방사청", "type": "훈령", "name": "방위산업물자 및 방위산업체 지정 규정", "url": "https://www.law.go.kr/행정규칙/방위산업물자및방위산업체지정규정"},
-      {"govbody": "국방부", "type": "훈령", "name": "국방전력발전업무훈령", "url": "https://www.law.go.kr/행정규칙/국방전력발전업무훈령"},
-      {"govbody": "국방부", "type": "훈령", "name": "군수품상용화업무훈령", "url": "https://www.law.go.kr/행정규칙/군수품상용화업무훈령"},
-      {"govbody": "방사청", "type": "훈령", "name": "방위사업 품질관리 규정", "url": "https://www.law.go.kr/행정규칙/방위사업품질관리규정"},
-      {"govbody": "방사청", "type": "훈령", "name": "방위산업기술 보호지침", "url": "https://www.law.go.kr/행정규칙/방위산업기술보호지침"},
-      {"govbody": "방사청", "type": "훈령", "name": "방위산업육성 지원사업 공통 운영규정", "url": "https://www.law.go.kr/행정규칙/방위산업육성지원사업공통운영규정"},
-      {"govbody": "국방부", "type": "훈령", "name": "총수명주기관리업무훈령", "url": "https://www.law.go.kr/행정규칙/총수명주기관리업무훈령"},
-      {"govbody": "방사청", "type": "훈령", "name": "획득단계 수명주기관리규정", "url": "https://www.law.go.kr/행정규칙/획득단계수명주기관리규정"},
-      {"govbody": "방사청", "type": "훈령", "name": "국제경쟁력강화 지원사업 운영규정", "url": "https://www.law.go.kr/행정규칙/국제경쟁력강화지원사업운영규정"},
-      {"name": "국방기술품질원 규정자료", "url": "https://www.dtaq.re.kr/ko/doc/prescribed.jsp"}
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방위사업관리규정", "url": "https://www.law.go.kr/행정규칙/방위사업관리규정"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "군수품조달관리규정", "url": "https://www.law.go.kr/행정규칙/군수품조달관리규정"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방위산업물자 및 방위산업체 지정 규정", "url": "https://www.law.go.kr/행정규칙/방위산업물자및방위산업체지정규정"},
+      {"alias": "", "govbody": "국방부", "type": "훈령", "name": "국방전력발전업무훈령", "url": "https://www.law.go.kr/행정규칙/국방전력발전업무훈령"},
+      {"alias": "", "govbody": "국방부", "type": "훈령", "name": "군수품상용화업무훈령", "url": "https://www.law.go.kr/행정규칙/군수품상용화업무훈령"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방위사업 품질관리 규정", "url": "https://www.law.go.kr/행정규칙/방위사업품질관리규정"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방위산업기술 보호지침", "url": "https://www.law.go.kr/행정규칙/방위산업기술보호지침"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방위산업육성 지원사업 공통 운영규정", "url": "https://www.law.go.kr/행정규칙/방위산업육성지원사업공통운영규정"},
+      {"alias": "", "govbody": "국방부", "type": "훈령", "name": "총수명주기관리업무훈령", "url": "https://www.law.go.kr/행정규칙/총수명주기관리업무훈령"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "획득단계 수명주기관리규정", "url": "https://www.law.go.kr/행정규칙/획득단계수명주기관리규정"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "국제경쟁력강화 지원사업 운영규정", "url": "https://www.law.go.kr/행정규칙/국제경쟁력강화지원사업운영규정"},
+      {"alias": "", "name": "국방기술품질원 규정자료", "url": "https://www.dtaq.re.kr/ko/doc/prescribed.jsp"}
     ],
     "계약업무처리": [
-      {"govbody": "국방부", "type": "부령", "name": "방산계약사무처리규칙", "url": "https://www.law.go.kr/법령/방산계약사무처리규칙"},
-      {"govbody": "방사청", "type": "훈령", "name": "방산계약사무처리시행세칙", "url": "https://www.law.go.kr/행정규칙/방산계약사무처리시행세칙"},
-      {"govbody": "국방부", "type": "훈령", "name": "계약업무처리훈령", "url": "https://www.law.go.kr/행정규칙/계약업무처리훈령"},
-      {"govbody": "방사청", "type": "예규", "name": "계약변경업무 처리지침", "url": "https://www.law.go.kr/행정규칙/계약변경업무처리지침"},
-      {"govbody": "기재부", "type": "예규", "name": "정부입찰·계약집행기준", "url": "https://www.law.go.kr/행정규칙/(계약예규)정부입찰·계약집행기준"}
+      {"alias": "", "govbody": "국방부", "type": "부령", "name": "방산계약사무처리규칙", "url": "https://www.law.go.kr/법령/방산계약사무처리규칙"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방산계약사무처리시행세칙", "url": "https://www.law.go.kr/행정규칙/방산계약사무처리시행세칙"},
+      {"alias": "", "govbody": "국방부", "type": "훈령", "name": "계약업무처리훈령", "url": "https://www.law.go.kr/행정규칙/계약업무처리훈령"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "계약변경업무 처리지침", "url": "https://www.law.go.kr/행정규칙/계약변경업무처리지침"},
+      {"alias": "", "govbody": "기재부", "type": "예규", "name": "정부입찰·계약집행기준", "url": "https://www.law.go.kr/행정규칙/(계약예규)정부입찰·계약집행기준"}
     ],
     "착수금·중도금": [
-      {"govbody": "국방부", "type": "부령", "name": "착수금·중도금지급규칙", "url": "https://www.law.go.kr/법령/착수금·중도금지급규칙"},
-      {"govbody": "방사청", "type": "훈령", "name": "착수금·중도금지급세칙", "url": "https://www.law.go.kr/행정규칙/착수금·중도금지급세칙"}
+      {"alias": "", "govbody": "국방부", "type": "부령", "name": "착수금·중도금지급규칙", "url": "https://www.law.go.kr/법령/착수금·중도금지급규칙"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "착수금·중도금지급세칙", "url": "https://www.law.go.kr/행정규칙/착수금·중도금지급세칙"}
     ],
     "원가계산": [
-      {"govbody": "국방부", "type": "부령", "name": "방산물자 원가계산규칙", "url": "https://www.law.go.kr/법령/방산물자원가계산규칙"},
-      {"govbody": "방사청", "type": "훈령", "name": "방산물자 원가계산시행세칙", "url": "https://www.law.go.kr/행정규칙/방산물자원가계산시행세칙"},
-      {"govbody": "방사청", "type": "훈령", "name": "전력화지원요소·하도급 원가계산규정", "url": "https://www.law.go.kr/행정규칙/전력화지원요소·하도급원가계산규정"}
+      {"alias": "", "govbody": "국방부", "type": "부령", "name": "방산물자 원가계산규칙", "url": "https://www.law.go.kr/법령/방산물자원가계산규칙"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방산물자 원가계산시행세칙", "url": "https://www.law.go.kr/행정규칙/방산물자원가계산시행세칙"},
+      {"alias": "", "govbody": "방사청", "type": "훈령", "name": "전력화지원요소·하도급 원가계산규정", "url": "https://www.law.go.kr/행정규칙/전력화지원요소·하도급원가계산규정"}
     ],
     "절충교역": [
-      {"name": "절충교역지침", "url": "https://www.law.go.kr/행정규칙/절충교역지침"}
+      {"alias": "", "name": "절충교역지침", "url": "https://www.law.go.kr/행정규칙/절충교역지침"}
     ],
     "적격심사": [
-      {"govbody": "방사청", "type": "예규", "name": "물품 적격심사 기준", "url": "https://www.law.go.kr/행정규칙/(방위사업청)물품적격심사기준"},
-      {"govbody": "방사청", "type": "예규", "name": "국외조달 적격심사 기준", "url": "https://www.law.go.kr/행정규칙/국외조달적격심사기준"},
-      {"govbody": "국방부", "type": "훈령", "name": "물품 적격심사기준에 관한 훈령", "url": "https://www.law.go.kr/행정규칙/(국방부)물품적격심사기준에관한훈령"},
-      {"govbody": "기재부", "type": "예규", "name": "적격심사기준", "url": "https://www.law.go.kr/행정규칙/(계약예규)적격심사기준"}
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "물품 적격심사 기준", "url": "https://www.law.go.kr/행정규칙/(방위사업청)물품적격심사기준"},
+      {"alias": "", "govbody": "방사청", "type": "예규", "name": "국외조달 적격심사 기준", "url": "https://www.law.go.kr/행정규칙/국외조달적격심사기준"},
+      {"alias": "", "govbody": "국방부", "type": "훈령", "name": "물품 적격심사기준에 관한 훈령", "url": "https://www.law.go.kr/행정규칙/(국방부)물품적격심사기준에관한훈령"},
+      {"alias": "", "govbody": "기재부", "type": "예규", "name": "적격심사기준", "url": "https://www.law.go.kr/행정규칙/(계약예규)적격심사기준"}
     ]
   },
   "수출입법규": [
-    {"name": "대외무역법", "url": "https://www.law.go.kr/법령/대외무역법"},
-    {"name": "대외무역법 시행령", "url": "https://www.law.go.kr/법령/대외무역법시행령"},
-    {"govbody": "산통부", "type": "고시", "name": "전략물자수출입고시", "url": "https://www.law.go.kr/행정규칙/전략물자수출입고시"},
-    {"govbody": "관세청", "type": "고시", "name": "전략물자 등 수출통관에 관한 고시", "url": "https://www.law.go.kr/행정규칙/전략물자등수출통관에관한고시"},
-    {"govbody": "방사청", "type": "훈령", "name": "방산 수출입 심사업무 훈령", "url": "https://www.law.go.kr/행정규칙/방산수출입심사업무훈령"}
+    {"alias": "", "name": "대외무역법", "url": "https://www.law.go.kr/법령/대외무역법"},
+    {"alias": "", "name": "대외무역법 시행령", "url": "https://www.law.go.kr/법령/대외무역법시행령"},
+    {"alias": "", "govbody": "산통부", "type": "고시", "name": "전략물자수출입고시", "url": "https://www.law.go.kr/행정규칙/전략물자수출입고시"},
+    {"alias": "", "govbody": "관세청", "type": "고시", "name": "전략물자 등 수출통관에 관한 고시", "url": "https://www.law.go.kr/행정규칙/전략물자등수출통관에관한고시"},
+    {"alias": "", "govbody": "방사청", "type": "훈령", "name": "방산 수출입 심사업무 훈령", "url": "https://www.law.go.kr/행정규칙/방산수출입심사업무훈령"}
   ],
   "공정거래·하도급등": [
-    {"name": "공정거래법", "url": "https://www.law.go.kr/법령/공정거래법"},
-    {"name": "하도급법", "url": "https://www.law.go.kr/법령/하도급법"},
-    {"name": "하도급법 시행령", "url": "https://www.law.go.kr/법령/하도급법시행령"},
-    {"name": "상생협력법", "url": "https://www.law.go.kr/법령/상생협력법"},
-    {"name": "상생협력법 시행령", "url": "https://www.law.go.kr/법령/상생협력법시행령"},
-    {"name": "중견기업법", "url": "https://www.law.go.kr/법령/중견기업법"},
-    {"name": "중견기업법 시행령", "url": "https://www.law.go.kr/법령/중견기업법시행령"}
+    {"alias": "", "name": "공정거래법", "url": "https://www.law.go.kr/법령/공정거래법"},
+    {"alias": "", "name": "하도급법", "url": "https://www.law.go.kr/법령/하도급법"},
+    {"alias": "", "name": "하도급법 시행령", "url": "https://www.law.go.kr/법령/하도급법시행령"},
+    {"alias": "", "name": "상생협력법", "url": "https://www.law.go.kr/법령/상생협력법"},
+    {"alias": "", "name": "상생협력법 시행령", "url": "https://www.law.go.kr/법령/상생협력법시행령"},
+    {"alias": "", "name": "중견기업법", "url": "https://www.law.go.kr/법령/중견기업법"},
+    {"alias": "", "name": "중견기업법 시행령", "url": "https://www.law.go.kr/법령/중견기업법시행령"}
   ],
   "환경규제법령": [
-    {"name": "폐기물관리법", "url": "https://www.law.go.kr/법령/폐기물관리법"},
-    {"name": "화학물질관리법", "url": "https://www.law.go.kr/법령/화학물질관리법"},
-    {"name": "소음진동관리법", "url": "https://www.law.go.kr/법령/소음진동관리법"},
-    {"name": "대기환경보전법", "url": "https://www.law.go.kr/법령/대기환경보전법"},
-    {"name": "토양환경보전법", "url": "https://www.law.go.kr/법령/토양환경보전법"},
-    {"name": "물환경보전법", "url": "https://www.law.go.kr/법령/물환경보전법"}
+    {"alias": "", "name": "폐기물관리법", "url": "https://www.law.go.kr/법령/폐기물관리법"},
+    {"alias": "", "name": "화학물질관리법", "url": "https://www.law.go.kr/법령/화학물질관리법"},
+    {"alias": "", "name": "소음진동관리법", "url": "https://www.law.go.kr/법령/소음진동관리법"},
+    {"alias": "", "name": "대기환경보전법", "url": "https://www.law.go.kr/법령/대기환경보전법"},
+    {"alias": "", "name": "토양환경보전법", "url": "https://www.law.go.kr/법령/토양환경보전법"},
+    {"alias": "", "name": "물환경보전법", "url": "https://www.law.go.kr/법령/물환경보전법"}
   ],
   "노동법령": [
-    {"name": "근로기준법", "url": "https://www.law.go.kr/법령/근로기준법"},
-    {"name": "근로기준법 시행령", "url": "https://www.law.go.kr/법령/근로기준법시행령"},
-    {"name": "최저임금법", "url": "https://www.law.go.kr/법령/최저임금법"},
-    {"name": "최저임금법 시행령", "url": "https://www.law.go.kr/법령/최저임금법시행령"},
-    {"name": "퇴직급여법", "url": "https://www.law.go.kr/법령/퇴직급여법"},
-    {"name": "퇴직급여법 시행령", "url": "https://www.law.go.kr/법령/퇴직급여법시행령"},
-    {"name": "임금채권보장법", "url": "https://www.law.go.kr/법령/임금채권보장법"},
-    {"name": "임금채권보장법 시행령", "url": "https://www.law.go.kr/법령/임금채권보장법시행령"},
-    {"name": "파견법", "url": "https://www.law.go.kr/법령/파견법"},
-    {"name": "파견법 시행령", "url": "https://www.law.go.kr/법령/파견법시행령"},
-    {"name": "기간제법", "url": "https://www.law.go.kr/법령/기간제법"},
-    {"name": "기간제법 시행령", "url": "https://www.law.go.kr/법령/기간제법시행령"},
-    {"name": "남녀고용평등법", "url": "https://www.law.go.kr/법령/남녀고용평등법"},
-    {"name": "남녀고용평등법 시행령", "url": "https://www.law.go.kr/법령/남녀고용평등법시행령"},
-    {"name": "고령자고용법", "url": "https://www.law.go.kr/법령/고령자고용법"},
-    {"name": "고령자고용법 시행령", "url": "https://www.law.go.kr/법령/고령자고용법시행령"},
-    {"name": "노동조합법", "url": "https://www.law.go.kr/법령/노동조합법"},
-    {"name": "노동조합법 시행령", "url": "https://www.law.go.kr/법령/노동조합법시행령"},
-    {"name": "근로복지기본법", "url": "https://www.law.go.kr/법령/근로복지기본법"},
-    {"name": "근로복지기본법 시행령", "url": "https://www.law.go.kr/법령/근로복지기본법시행령"},
-    {"name": "중대재해처벌법", "url": "https://www.law.go.kr/법령/중대재해처벌법"},
-    {"name": "중대재해처벌법 시행령", "url": "https://www.law.go.kr/법령/중대재해처벌법시행령"}
+    {"alias": "", "name": "근로기준법", "url": "https://www.law.go.kr/법령/근로기준법"},
+    {"alias": "", "name": "근로기준법 시행령", "url": "https://www.law.go.kr/법령/근로기준법시행령"},
+    {"alias": "", "name": "최저임금법", "url": "https://www.law.go.kr/법령/최저임금법"},
+    {"alias": "", "name": "최저임금법 시행령", "url": "https://www.law.go.kr/법령/최저임금법시행령"},
+    {"alias": "", "name": "퇴직급여법", "url": "https://www.law.go.kr/법령/퇴직급여법"},
+    {"alias": "", "name": "퇴직급여법 시행령", "url": "https://www.law.go.kr/법령/퇴직급여법시행령"},
+    {"alias": "", "name": "임금채권보장법", "url": "https://www.law.go.kr/법령/임금채권보장법"},
+    {"alias": "", "name": "임금채권보장법 시행령", "url": "https://www.law.go.kr/법령/임금채권보장법시행령"},
+    {"alias": "", "name": "파견법", "url": "https://www.law.go.kr/법령/파견법"},
+    {"alias": "", "name": "파견법 시행령", "url": "https://www.law.go.kr/법령/파견법시행령"},
+    {"alias": "", "name": "기간제법", "url": "https://www.law.go.kr/법령/기간제법"},
+    {"alias": "", "name": "기간제법 시행령", "url": "https://www.law.go.kr/법령/기간제법시행령"},
+    {"alias": "", "name": "남녀고용평등법", "url": "https://www.law.go.kr/법령/남녀고용평등법"},
+    {"alias": "", "name": "남녀고용평등법 시행령", "url": "https://www.law.go.kr/법령/남녀고용평등법시행령"},
+    {"alias": "", "name": "고령자고용법", "url": "https://www.law.go.kr/법령/고령자고용법"},
+    {"alias": "", "name": "고령자고용법 시행령", "url": "https://www.law.go.kr/법령/고령자고용법시행령"},
+    {"alias": "", "name": "노동조합법", "url": "https://www.law.go.kr/법령/노동조합법"},
+    {"alias": "", "name": "노동조합법 시행령", "url": "https://www.law.go.kr/법령/노동조합법시행령"},
+    {"alias": "", "name": "근로복지기본법", "url": "https://www.law.go.kr/법령/근로복지기본법"},
+    {"alias": "", "name": "근로복지기본법 시행령", "url": "https://www.law.go.kr/법령/근로복지기본법시행령"},
+    {"alias": "", "name": "중대재해처벌법", "url": "https://www.law.go.kr/법령/중대재해처벌법"},
+    {"alias": "", "name": "중대재해처벌법 시행령", "url": "https://www.law.go.kr/법령/중대재해처벌법시행령"}
   ],
   "조세법규": [
-    {"name": "국세기본통칙", "url": "https://taxlaw.nts.go.kr/st/USESTD001M.do"}
+    {"alias": "", "name": "국세기본통칙", "url": "https://taxlaw.nts.go.kr/st/USESTD001M.do"}
   ],
   "기타법규": [
-    {"name": "변호사보수규정", "url": "https://www.law.go.kr/행정규칙/변호사보수규정"},
-    {"name": "행정규제기본법", "url": "http://www.law.go.kr/법령/행정규제기본법"},
-    {"name": "채무자회생법", "url": "https://www.law.go.kr/법령/채무자회생및파산에관한법률"},
-    {"name": "국가재정법", "url": "http://www.law.go.kr/법령/국가재정법"},
-    {"name": "국고금관리법", "url": "https://www.law.go.kr/법령/국고금관리법"},
-    {"name": "국가연구개발혁신법", "url": "https://www.law.go.kr/법령/국가연구개발혁신법"},
-    {"name": "국가연구개발혁신법 시행령", "url": "https://www.law.go.kr/법령/국가연구개발혁신법시행령"},
-    {"name": "산업기술혁신법", "url": "https://www.law.go.kr/법령/산업기술혁신법"}
+    {"alias": "", "name": "변호사보수규정", "url": "https://www.law.go.kr/행정규칙/변호사보수규정"},
+    {"alias": "", "name": "행정규제기본법", "url": "http://www.law.go.kr/법령/행정규제기본법"},
+    {"alias": "", "name": "채무자회생법", "url": "https://www.law.go.kr/법령/채무자회생및파산에관한법률"},
+    {"alias": "", "name": "국가재정법", "url": "http://www.law.go.kr/법령/국가재정법"},
+    {"alias": "", "name": "국고금관리법", "url": "https://www.law.go.kr/법령/국고금관리법"},
+    {"alias": "", "name": "국가연구개발혁신법", "url": "https://www.law.go.kr/법령/국가연구개발혁신법"},
+    {"alias": "", "name": "국가연구개발혁신법 시행령", "url": "https://www.law.go.kr/법령/국가연구개발혁신법시행령"},
+    {"alias": "", "name": "산업기술혁신법", "url": "https://www.law.go.kr/법령/산업기술혁신법"}
   ],
   "국방정책법령": [
-    {"name": "방위산업발전법", "url": "https://www.law.go.kr/법령/방위산업발전법"},
-    {"name": "방위산업발전법 시행령", "url": "https://www.law.go.kr/법령/방위산업발전법시행령"},
-    {"name": "방위산업발전법 시행규칙", "url": "https://www.law.go.kr/법령/방위산업발전법시행규칙"},
-    {"name": "국방과학기술혁신법", "url": "https://www.law.go.kr/법령/국방과학기술혁신촉진법"},
-    {"name": "국방과학기술혁신법 시행령", "url": "https://www.law.go.kr/법령/국방과학기술혁신법시행령"},
-    {"name": "국방과학기술혁신법 시행규칙", "url": "https://www.law.go.kr/법령/국방과학기술혁신법시행규칙"}
+    {"alias": "", "name": "방위산업발전법", "url": "https://www.law.go.kr/법령/방위산업발전법"},
+    {"alias": "", "name": "방위산업발전법 시행령", "url": "https://www.law.go.kr/법령/방위산업발전법시행령"},
+    {"alias": "", "name": "방위산업발전법 시행규칙", "url": "https://www.law.go.kr/법령/방위산업발전법시행규칙"},
+    {"alias": "", "name": "국방과학기술혁신법", "url": "https://www.law.go.kr/법령/국방과학기술혁신촉진법"},
+    {"alias": "", "name": "국방과학기술혁신법 시행령", "url": "https://www.law.go.kr/법령/국방과학기술혁신법시행령"},
+    {"alias": "", "name": "국방과학기술혁신법 시행규칙", "url": "https://www.law.go.kr/법령/국방과학기술혁신법시행규칙"}
   ]
 }
